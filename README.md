@@ -1,36 +1,12 @@
-### Salve! 👋 Me chamo Thiago Fuzinato e esse é o meu perfil!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d4eca&height=120&section=header" alt="header"/> 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=6d4eca&width=435&lines=Hello%2C+it's+Thiago+Fuzinato;Junior+Developer" alt="Junior Developer"/>
+</a>
 
-- 🔭 Desenvolvedor Jr
-- 🌱 Atualmente cursando Ciência da Computação
-- ☕️ Entusiasta do Java
+### About me
+A 24y old Junior Developer, currently graduating computer science and working at <a href="https://github.com/doitsa?view_as=public"> DOit SA </a>. I love technology and how it makes our life easier, that's the main reason that brought me here.
 
-<div>
-  <a href="https://www.instagram.com/th.fuzi/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="https://www.linkedin.com/in/thiago-coelho-fuzinato-24a903207/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://twitter.com/th_fuzii">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</div>
 
-&nbsp;
-&nbsp;
 
-![Fuzinato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoFuzi&show_icons=true&theme=radical)
-
-&nbsp;
-
-## Tecnologias
-<div style="display: inline_block"><br/>
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
-## IDEs
-<div style="display: inline_block"><br/>
-  <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</div>
-
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,css,eclipse,github,html,htmx,java,postman,ts,vscode,vue)](https://skillicons.dev)
