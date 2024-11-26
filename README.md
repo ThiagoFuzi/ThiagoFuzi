@@ -12,4 +12,4 @@ A 24y old Junior Developer, currently graduating computer science and working at
 [![My Skills](https://skillicons.dev/icons?i=aws,css,eclipse,github,html,htmx,java,postman,ts,vscode,vue)](https://skillicons.dev)
 
 ### Connect With Me
-<a href="[https://www.linkedin.com/in/paulo-vitor-12ba241b2/](https://www.linkedin.com/in/thiago-coelho-fuzinato-24a903207/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-coelho-fuzinato-24a903207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
